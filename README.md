@@ -40,6 +40,5 @@ UI: http://127.0.0.1:8000/ui
 
 API Docs: http://127.0.0.1:8000/docs
 
-ScaleDown-powered Health Memory:
-The system compresses long-term wearable health data into compact summaries, allowing the AI coach to generate fast, personalized, and explainable health recommendations using a user’s historical baseline instead of generic thresholds.
+
 
